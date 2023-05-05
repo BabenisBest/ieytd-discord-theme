@@ -73,7 +73,7 @@ code,
     
     /* New unreads bubble */
     --background-accent: var(--color-one);
-    --background-floating: var(--color-two);
+    --background-floating: var(--color-one);
     --background-nested-floating: green;
 
     --background-modifier-hover: transparent;
@@ -104,7 +104,7 @@ code,
     /* Calendar date grid */
     --deprecated-text-input-border-disabled: var(--color-one);
         
-    --interactive-normal: var(--color-one);
+    --interactive-normal: var(--color-two);
     --interactive-hover: var(--interactive-normal);
     --interactive-muted: var(--interactive-normal);
     --interactive-active: var(--color-three);
