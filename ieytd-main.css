@@ -52,7 +52,7 @@ code,
     
     --text-normal: var(--color-one);
     --text-muted: var(--color-two);
-    --text-link: var(--color-one);
+    --text-link: var(--color-two);
     --textbox-markdown-syntax: var(--color-one);
     
     /* These control too much, check again later*/
