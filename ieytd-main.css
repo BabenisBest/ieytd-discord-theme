@@ -46,9 +46,9 @@ code,
 
 .theme-dark,
 .theme-light {
-    --color-one: #c34938;
-    --color-two: #e1cc9a;
-    --color-three: #000;
+    --color-one: #C3873F;
+    --color-two: #2C0904;
+    --color-three: #302F2E;
     
     --text-normal: var(--color-two);
     --text-muted: var(--color-two);
