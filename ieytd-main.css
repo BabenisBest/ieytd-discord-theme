@@ -50,9 +50,9 @@ code,
     --color-two: #C3873F;
     --color-three: #302F2E;
     
-    --text-normal: var(--color-two);
+    --text-normal: var(--color-one);
     --text-muted: var(--color-one);
-    --text-link: var(--color-one);
+    --text-link: var(--color-two);
     --textbox-markdown-syntax: var(--color-one);
     
     /* These control too much, check again later*/
