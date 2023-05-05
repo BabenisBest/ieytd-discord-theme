@@ -50,10 +50,10 @@ code,
     --color-two: #2C0904;
     --color-three: #302F2E;
     
-    --text-normal: var(--color-two);
+    --text-normal: var(--color-one);
     --text-muted: var(--color-two);
     --text-link: var(--color-one);
-    --textbox-markdown-syntax: var(--color-two);
+    --textbox-markdown-syntax: var(--color-one);
     
     /* These control too much, check again later*/
     --header-primary: var(--color-three);
