@@ -46,8 +46,8 @@ code,
 
 .theme-dark,
 .theme-light {
-    --color-one: #C3873F;
-    --color-two: #2C0904;
+    --color-one: #2C0904;
+    --color-two: #C3873F;
     --color-three: #302F2E;
     
     --text-normal: var(--color-two);
