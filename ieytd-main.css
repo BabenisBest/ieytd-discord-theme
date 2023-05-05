@@ -63,7 +63,7 @@ code,
     --background-secondary: var(--color-one);
     --background-secondary-alt: var(--color-two);
     --background-tertiary: var(--color-two);
-    --channeltextarea-background: var(--color-one);
+    --channeltextarea-background: var(--color-two);
     
     /* Channel names, channel groups, user groups */
     /* removed channel and user groups from this var */
