@@ -72,8 +72,8 @@ code,
     --channel-text-area-placeholder: var(--color-two);
     
     /* New unreads bubble */
-    --background-accent: var(--color-two);
-    --background-floating: var(--color-two);
+    --background-accent: var(--color-one);
+    --background-floating: var(--color-one);
     --background-nested-floating: green;
 
     --background-modifier-hover: transparent;
