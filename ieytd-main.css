@@ -73,7 +73,7 @@ code,
     
     /* New unreads bubble */
     --background-accent: var(--color-two);
-    --background-floating: var(--color-one);
+    --background-floating: var(--color-two);
     --background-nested-floating: green;
 
     --background-modifier-hover: transparent;
